@@ -2,6 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
 
+import "./index.css"; // Add this line to ensure index.css is loaded
+
 // Import our custom SCSS
 // import "./scss/custom.scss";
 
